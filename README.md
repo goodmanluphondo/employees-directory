@@ -5,13 +5,13 @@
 1. Clone the repository:
 
 ```bash
-git clone git@github.com:goodmanluphondo/react-app.git
+git clone git@github.com:goodmanluphondo/employees-directory.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd react-app
+cd employees-directory
 ```
 
 3. Install dependencies:
